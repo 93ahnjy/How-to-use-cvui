@@ -12,5 +12,5 @@
 
 
 # 3. 참고사이트.
-스샷 : https://dovyski.github.io/cvui/ <br>
+스샷 및 원문 설명 : https://dovyski.github.io/cvui/ <br>
 github : https://github.com/Dovyski/cvui <br>
